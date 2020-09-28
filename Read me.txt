@@ -1,0 +1,5 @@
+To Run the following Master thesis coding file, Please download the packages mentioned below :
+
+1. Install Anacondas python of 64bit to your system.
+2. Then pip install keras 
+3. Then pip install tensorflow
